@@ -1,0 +1,1 @@
+Synthetic content for testing access when the Muse App excludes this repository.
