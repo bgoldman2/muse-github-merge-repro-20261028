@@ -1,0 +1,2 @@
+Synthetic fixture for testing a ChatGPT GitHub connector PR merge.
+No production code or private information.
